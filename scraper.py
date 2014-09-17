@@ -8,7 +8,7 @@ import urllib2
 
 # Get results from the Twitter API! Change QUERY to your search term of choice. 
 # Examples: 'newsnight', 'from:bbcnewsnight', 'to:bbcnewsnight'
-QUERY = '#cij2011' 
+QUERY = '#streetphotography' 
 RESULTS_PER_PAGE = '100'
 LANGUAGE = 'en'
 NUM_PAGES = 5 
